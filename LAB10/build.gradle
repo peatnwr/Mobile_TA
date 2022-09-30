@@ -1,0 +1,4 @@
+buildFeatures {
+    dataBinding = true
+    viewBinding = true
+}
